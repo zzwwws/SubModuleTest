@@ -1,0 +1,3 @@
+[submodule "SubLibrary"]
+	path = SubLibrary
+	url = https://github.com/zzwwws/SubLibrary
